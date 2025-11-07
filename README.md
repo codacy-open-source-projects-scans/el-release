@@ -1,7 +1,4 @@
-# el-release - master branch
+# eurolinux-9-el-release
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
-
-Commit Time: 1734554484
+## How to build
+Build with `--target noarch` as right now everything is arch independent.
